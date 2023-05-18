@@ -5,7 +5,7 @@
   ## Table-of-Contents
 
   * [Description](#description)
-    * [Contributing](#Contributing)
+  * [Contributing](#Contributing)
   * [Feedback](#feedback)
 
 
